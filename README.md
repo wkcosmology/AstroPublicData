@@ -5,12 +5,12 @@ Aiming to provide convenient indexing to public astronomical dataset, like galax
 There is a list of galaxy surveys
 ### Spectroscopic surveys
 
-    1. [SDSS](galaxy_surveys/sdss.md)
-        - aperture of telescope
-        - Redshift range:
-        - Sky area:
-        - selection criteria:
-    2. [zCOSMOS](galaxy_surveys/zcosmos.md)
+1. [SDSS](galaxy_surveys/sdss.md)
+    - aperture of telescope
+    - Redshift range:
+    - Sky area:
+    - selection criteria:
+2. [zCOSMOS](galaxy_surveys/zcosmos.md)
 
 ## Group catalogue
 
